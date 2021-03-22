@@ -22,5 +22,6 @@ public class Program {
         System.out.println("국어 3 : " + kor3);
         System.out.println("총점 : " + total);
         System.out.println("평균 : " + avg);
+        System.out.printf("%2$d %3$d %1$d\n", 1,2,3);
     }
 }
