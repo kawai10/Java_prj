@@ -12,6 +12,7 @@ public class Program {
         total = kor1 + kor2 + kor3;
         avg = total / 3;
 
+        //성적 출력
         System.out.println("┌───────────────────┐");
         System.out.println("│     성적 출력       │");
         System.out.println("└───────────────────┘");
